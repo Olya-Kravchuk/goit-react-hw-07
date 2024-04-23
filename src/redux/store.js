@@ -1,6 +1,6 @@
-import { contactsReducer } from "./contactsSlice";
-import { filtersReducer } from "./filtersSlice";
 
+import { filtersReducer } from "./filtersSlice";
+import { contactsReducer } from "./contactsSlice";
 // import {
 //   persistStore,
 //   persistReducer,
